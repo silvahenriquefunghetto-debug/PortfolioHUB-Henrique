@@ -22,20 +22,29 @@ O objetivo deste projeto é centralizar meus trabalhos em um só lugar, facilita
 - `README.md` — apresentação do projeto
 
 ## Projetos em Destaque
-### 1. Projeto 1
-- Nome: [coloque o nome aqui]
-- Descrição: [resumo curto do projeto]
-- Objetivo: [para que serve]
+Panorama Epidemiológico da Demência no Brasil: Impactos e Perspectivas para o Envelhecimento Saudável
 
-### 2. Projeto 2
-- Nome: [coloque o nome aqui]
-- Descrição: [resumo curto do projeto]
-- Objetivo: [para que serve]
+**Descrição:**  
+Trabalho apresentado no 2º dia da Pré-Imersão On-line da Rede Geronto, evento internacional voltado para inovação e inclusão na área do envelhecimento.
 
-### 3. Projeto 3
-- Nome: [coloque o nome aqui]
-- Descrição: [resumo curto do projeto]
-- Objetivo: [para que serve]
+**Objetivo:**  
+Analisar dados epidemiológicos sobre demência no Brasil e propor perspectivas para promover o envelhecimento saudável, considerando impactos sociais, econômicos e de saúde pública.
+
+**Relevância:**  
+O trabalho contribui para a conscientização sobre doenças neurodegenerativas e reforça a importância de políticas públicas voltadas à população idosa.
+
+**Prova/Referência:**  
+Matéria publicada na Rede Geronto com meu nome e tema do trabalho:  
+[Pesquisas inovadoras marcam o 2º dia da Pré-Imersão On-line — Rede Geronto](https://redegeronto.com.br/2025/02/13/pesquisas-inovadoras-marcam-o-2o-dia-da-pre-imersao-on-line/)
+
+---
+
+## 🛠️ Ferramentas e Metodologia
+- Pesquisa bibliográfica e análise de dados epidemiológicos
+- Organização do conteúdo em slides e roteiro de apresentação
+- Apoio da IA Gemini para estruturar, revisar e aprimorar o texto
+
+
 
 ## Como foi feito
 - Criação do repositório no GitHub
